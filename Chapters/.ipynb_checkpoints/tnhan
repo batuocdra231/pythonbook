@@ -1,0 +1,19 @@
+def read_document(x):
+  print(x)
+n=Statistics is the science of conducting studies to collect, organize, summarize, analyze and draw conclusions from data.
+Students study statistics for several reasons:
+1. Like professional people, you must be able to read and understand the variousstatistical studies performed in your fields. To have this understanding, you must be knowledgeable about the vocabulary, symbols, concepts, and statistical procedures used in these studies.
+2. You may be called on to conduct research in your field, since statistical proceduresare basic to research. To accomplish this, you must be able to design experiments; collect, organize, analyze, and summarize data; and possibly make reliablepredictions or forecasts for future use. You must also be able to communicate the results of the study in your own words.
+3. You can also use the knowledge gained from studying statistics to become betterconsumers and citizens. For example, you can make intelligent decisions about what products to purchase based on consumer studies, about government spending based on utilization studies, and so on.
+
+Descriptive and Inferential Statistics
+A variable is a characteristic or attribute that can assume different values.
+Data are the values (measurements or observations) that the variables can assume.Variables whose values are determined by chance are called random variables.
+A collection of data values forms a data set. Each value in the data set is called a data value or a datum.
+Data can be used in different ways. The body of knowledge called statistics is sometimes divided into two main areas, depending on how data are used. The two areas are
+1. Descriptive statistics consists of the collection, organization, summarization, and presentation of data.
+2. Inferential statistics consists of generalizing from samples to populations, performing estimations and hypothesis tests, determining relationships among variables, and making  predictions.
+A population consists of all subjects (human or otherwise) that are being studied.
+A sample is a group of subjects selected from a population
+
+def read_document(n)
